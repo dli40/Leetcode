@@ -20,5 +20,5 @@ class Solution(object):
         return result
         
         
-        #time: O(n)
+        #time: O(n) squared
         #space: O(n)
